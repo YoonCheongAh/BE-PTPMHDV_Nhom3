@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "zouWCqE/HsoUzDlEzY38HtKtKNGqIG1T/8smdk+PwaQ=",
+  "Source": "HuongDichVu",
+  "BasePath": "_content/HuongDichVu",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HuongDichVu\\wwwroot",
+      "Source": "HuongDichVu",
+      "ContentRoot": "C:\\Users\\phuon\\source\\repos\\HuongDichVu\\HuongDichVu\\wwwroot\\",
+      "BasePath": "_content/HuongDichVu",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\phuon\\source\\repos\\HuongDichVu\\HuongDichVu\\wwwroot\\uploads\\19bcbe61-b9df-4147-bb7c-dd5c8a0c321f.png",
+      "SourceId": "HuongDichVu",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\phuon\\source\\repos\\HuongDichVu\\HuongDichVu\\wwwroot\\",
+      "BasePath": "_content/HuongDichVu",
+      "RelativePath": "uploads/19bcbe61-b9df-4147-bb7c-dd5c8a0c321f.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\19bcbe61-b9df-4147-bb7c-dd5c8a0c321f.png"
+    },
+    {
+      "Identity": "C:\\Users\\phuon\\source\\repos\\HuongDichVu\\HuongDichVu\\wwwroot\\uploads\\66e79cde-ea70-425c-aa18-8bc4f0f4f001.png",
+      "SourceId": "HuongDichVu",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\phuon\\source\\repos\\HuongDichVu\\HuongDichVu\\wwwroot\\",
+      "BasePath": "_content/HuongDichVu",
+      "RelativePath": "uploads/66e79cde-ea70-425c-aa18-8bc4f0f4f001.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\66e79cde-ea70-425c-aa18-8bc4f0f4f001.png"
+    }
+  ]
+}

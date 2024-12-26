@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\phuon\\source\\repos\\HuongDichVu\\HuongDichVu\\wwwroot\\uploads\\19bcbe61-b9df-4147-bb7c-dd5c8a0c321f.png",
+      "PackagePath": "staticwebassets\\uploads\\19bcbe61-b9df-4147-bb7c-dd5c8a0c321f.png"
+    },
+    {
+      "Id": "C:\\Users\\phuon\\source\\repos\\HuongDichVu\\HuongDichVu\\wwwroot\\uploads\\66e79cde-ea70-425c-aa18-8bc4f0f4f001.png",
+      "PackagePath": "staticwebassets\\uploads\\66e79cde-ea70-425c-aa18-8bc4f0f4f001.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HuongDichVu.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HuongDichVu.props",
+      "PackagePath": "build\\HuongDichVu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HuongDichVu.props",
+      "PackagePath": "buildMultiTargeting\\HuongDichVu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HuongDichVu.props",
+      "PackagePath": "buildTransitive\\HuongDichVu.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
